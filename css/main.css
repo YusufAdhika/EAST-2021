@@ -44,7 +44,7 @@ body {
   font-family: "Manrope", sans-serif;
   font-size: 14px;
   font-weight: 300;
-  line-height: 1.5em;
+  line-height: 2em;
   position: relative;
 }
 
@@ -2180,7 +2180,7 @@ text-shadow: 1px 1px 1px rgb(0 0 0);
 
   @media screen and (max-width:768px){
     .fullwidth-container {
-      width: 80%;
+      width: 85%;
       display: grid;
       margin:2rem 10%;
     } 
@@ -2211,7 +2211,7 @@ text-shadow: 1px 1px 1px rgb(0 0 0);
 
 .list-display li {
   margin-bottom: 0.4rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 .list-checkmarks {
   padding-left: 1.5rem;
@@ -2575,7 +2575,7 @@ button:after {
   display: none
   }
   #pn1 {
-  margin-bottom:20px
+  margin-bottom:25px
   }
   /* button {
   float: none;
